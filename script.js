@@ -4,5 +4,5 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 	maxZoom: 18
 }).addTo(mymap);
 
-var marker = L.marker([-0.303, 36.05]).addTo(mymap);
-marker.bindPopup("<b>kush is a jkuat student!!!</b><br>HE IS A GIS ANALYST.").openPopup();
+var marker = L.marker([-0.4832, 37.1274]).addTo(mymap);
+marker.bindPopup("<b>kush is a jkuat student!!!</b><br>here is his home.").openPopup();
