@@ -5,4 +5,4 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(mymap);
 
 var marker = L.marker([-0.4832, 37.1274]).addTo(mymap);
-marker.bindPopup("<b>kush is a jkuat student!!!</b><br>here is his home.").openPopup();
+marker.bindPopup("<b>Lewis Kuria is a jkuat student!!!</b><br>This is his home.").openPopup();
